@@ -1,4 +1,5 @@
 # fragrance-market-analysis
+![Dashboard](Scrrenshot2026-04-19)
 Data-driven analysis of India’s fragrance market to uncover consumer behavior, pricing trends, and opportunities for a D2C brand strategy.
 #  Fragrance Market Intelligence: Consumer Insights, Pricing Strategy & D2C Opportunity Analysis
 
