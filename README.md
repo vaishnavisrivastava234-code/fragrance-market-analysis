@@ -18,7 +18,7 @@ Despite strong growth in the fragrance industry, there exists a gap between cons
 
 ***
 
-## 📊 Data Sources
+##  Data Sources
 
 - Primary survey data (Google Forms responses)
 - Industry research reports and articles
@@ -65,7 +65,7 @@ The market lacks affordable yet long-lasting fragrances that combine strong emot
 - Floral and fresh scent dominance
 - Focus on long-lasting formulations
 
-### 💰 Pricing Strategy
+###  Pricing Strategy
 
 - Mid-premium positioning: ₹500-1000
 
