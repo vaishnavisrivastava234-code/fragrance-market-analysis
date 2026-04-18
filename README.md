@@ -1,12 +1,10 @@
 # fragrance-market-analysis
-![Dashboard](Screenshot 2026-04-19 044050.png)
 Data-driven analysis of India’s fragrance market to uncover consumer behavior, pricing trends, and opportunities for a D2C brand strategy.
 #  Fragrance Market Intelligence: Consumer Insights, Pricing Strategy & D2C Opportunity Analysis
 
 ## Business Analytics & Market Intelligence Project
 
 ***
-
 ##  Project Overview
 
 This project analyzes consumer behavior, pricing preferences, and market trends in the fragrance industry using primary survey data and secondary industry research. The objective is to identify key business gaps and develop a data-driven go-to-market strategy for a potential D2C fragrance brand.
